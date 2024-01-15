@@ -1,0 +1,29 @@
+# GSoC 2024_Project Idea_Integrated Appointment system
+
+- Project Title
+    - Integrated appointment system for ScholarX Platform
+- Description of the project (2-5 sentences)
+    - One of the key requirements of the ScholarX program is to understand the interactions between the mentees and the mentors. However since most of the meeting / discussion scheduling happens outside the platform, program admins have to rely on manual feedback collections to monitor aspects like frequency of discussions, discussed topics, etc.
+- Expected Outcomes
+    - Two possible ways to address the issue
+        - One shared calendar integrated to the system
+        - Individual calendars integrated to the user profiles (mentors)
+    - Users will be able to
+        - See the availability of the person they are going to schedule a meeting with
+        - Click a date on the calendar
+        - Select the Time, where the Time Zone will be selected ;
+            - automatically as per the local machine time zone or
+            - user select the time zone manually
+        - Enter the Title of the discussion / meeting
+        - Select the details of the participants from a dropdown list (if all mentee / mentor details are in the system) or enter the details manually (Name, Email, etc.)
+        - Create a link to the meeting within the window, through Google Meet, Zoom or any other meeting platform integration.
+        - Submit the appointment
+        - View / Accept / Reject / Suggest alternative time & arrangements within their profile
+- Skills / Technologies
+    - iCalc
+    - APIs for frequently used meeting platforms
+- Possible Mentors
+    - 
+- Expected size of project
+    - Medium
+    - 175 Hours
